@@ -1,0 +1,14 @@
+# Ignorar dependencias de Composer
+/vendor/
+
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar dependencias de Node.js (si usas Node en tu proyecto)
+node_modules/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos temporales del sistema
+*.swp
